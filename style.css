@@ -1,3 +1,7 @@
 h1 {
   font-family: 'Jolly Lodger', sans-serif;
 }
+
+h1::hover {
+  color: blue;
+}
